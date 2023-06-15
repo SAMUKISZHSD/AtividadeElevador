@@ -2,7 +2,7 @@
 - ATIVIDADE PARA TREINAR ORIENTAÇÃO A OBJETOS EM JAVA
 
  
-  <img src="https://meuelevador.com/wp-content/uploads/2019/06/motor-do-elevador.jpg" whidth: 50%>
+  <img src="https://meuelevador.com/wp-content/uploads/2019/06/motor-do-elevador.jpg" whidth: "50%">
   
 Você foi contratado para desenvolver um sistema que simule o funcionamento de um elevador em um prédio. Para isso, você precisa criar uma classe chamada Elevador que armazene as informações relevantes e disponibilize métodos para controlar seu funcionamento.
 A classe Elevador deve possuir os seguintes atributos:

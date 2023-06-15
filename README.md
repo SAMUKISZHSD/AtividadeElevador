@@ -1,5 +1,6 @@
 # AtividadeElevador
 - ATIVIDADE PARA TREINAR ORIENTAÇÃO A OBJETOS EM JAVA
+ <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="JAVA">
 
  
   <img src="https://meuelevador.com/wp-content/uploads/2019/06/motor-do-elevador.jpg" width="50%">

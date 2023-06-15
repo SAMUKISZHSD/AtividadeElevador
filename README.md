@@ -1,11 +1,11 @@
 # AtividadeElevador
-sobre a atividade:
+
 Você foi contratado para desenvolver um sistema que simule o funcionamento de um elevador em um prédio. Para isso, você precisa criar uma classe chamada Elevador que armazene as informações relevantes e disponibilize métodos para controlar seu funcionamento.
 A classe Elevador deve possuir os seguintes atributos:
 
-andarAtual: representa o andar em que o elevador está no momento (o térreo é representado pelo valor 0).
-totalAndares: indica o número total de andares atendidos pelo elevador.
-andaresAtendidos: contém os andares em que o elevador pode parar.
+- andarAtual: representa o andar em que o elevador está no momento (o térreo é representado pelo valor 0).
+- totalAndares: indica o número total de andares atendidos pelo elevador.
+- andaresAtendidos: contém os andares em que o elevador pode parar.
 capacidadeMaxima: a capacidade máxima de pessoas que o elevador pode suportar.
 pessoasPresentes: o número de pessoas atualmente presentes no elevador.
 A classe Elevador deve disponibilizar os seguintes métodos:
